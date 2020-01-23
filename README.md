@@ -1,3 +1,3 @@
 # Reinforcement-Learning-
-Maze Problem
+Maze Problem.
 This repository contains the pdf report and the associated python codes. 
